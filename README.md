@@ -1,8 +1,8 @@
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Lukas Campos
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Joao vitor Meirelles
 
-👨🏻‍💻 I'm a backend developer and tech lead<br>
+👨🏻‍💻 I'm a Front End developer and tech lead<br>
 🧠 Passionate about designing robust, scalable, and decoupled architectures — clean, reusable, and elegantly simple<br>
 🌱 Constantly learning more about modular monolith, clean architecture, and system design<br>
 🎓 Finishing my degree in Systems Analysis and Development at IFSP<br>
