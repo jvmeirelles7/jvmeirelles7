@@ -3,11 +3,11 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Joao vitor Meirelles
 
 👨🏻‍💻 I'm a Front End developer and tech lead<br>
-🧠 Passionate about designing robust, scalable, and decoupled architectures — clean, reusable, and elegantly simple<br>
-🌱 Constantly learning more about modular monolith, clean architecture, and system design<br>
-🎓 Finishing my degree in Systems Analysis and Development at IFSP<br>
+🎨 Apaixonado por criar interfaces intuitivas, acessíveis e com design moderno<br>
+🧠 Gosto de pensar em componentes desacoplados, escaláveis e fáceis de manter — focando em clean code e performance<br>
+🌱 Estudando constantemente padrões como Atomic Design, arquitetura de componentes e micro frontend<br>
 💼 Leading real-world projects in public healthcare and e-commerce<br>
-🚀 Focused on NestJS, TypeScript, PostgreSQL, and Docker<br>
+🚀 Trabalhando com React, TypeScript, TailwindCSS, Next.js e integrando com APIs REST e GraphQL<br>
 </div>
 
 <div align="center">
