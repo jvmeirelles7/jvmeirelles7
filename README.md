@@ -5,8 +5,8 @@
 👨🏻‍💻 I'm a Front End developer<br>
 🎨 Apaixonado por criar interfaces intuitivas, acessíveis e com design moderno<br>
 🧠 Gosto de pensar em componentes desacoplados, escaláveis e fáceis de manter — focando em clean code e performance<br>
-🌱 Estudando constantemente padrões como Atomic Design, arquitetura de componentes e micro frontend<br>
-🎓 Atualmente cursando Técnico em Desenvolvimento Front End no SENAI<br>
+🌱 Estudando constantemente padrões como Atomic Design, arquitetura de componentes e micro frontend <br>
+🎓 Atualmente cursando Técnico em Desenvolvimento Front End no SENAI — sempre buscando evoluir com boas práticas e novas tecnologias<br>
 🚀 Trabalhando com React, TypeScript, TailwindCSS, Next.js e integrando com APIs REST e GraphQL<br>
 </div>
 
